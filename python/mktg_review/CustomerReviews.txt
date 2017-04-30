@@ -1,0 +1,1506 @@
+ProductModelName: Samsung TV 60 LED
+ProductCategory: TV
+ProductPrice: 1200
+RetailerName: Bestbuy
+RetailerZipCode: 60585
+RetailerCity: Naperville
+RetailerState: IL
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: abc234
+ReviewRating: 1
+ReviewDate: 3/14/2013
+ReviewText: Bluetooth did not work for my sound system
+
+ProductModelName: Surface 3
+ProductCategory: Tablet
+ProductPrice: 399
+RetailerName: Hhgregg
+RetailerZipCode: 90012
+RetailerCity: Los Angeles
+RetailerState: CA
+RetailerOnSale: Yes
+ManufacturerName: Microsoft
+ManufacturerRebate: No
+ReviewUserId: chj787
+ReviewRating: 5
+ReviewDate: 7/1/2014
+ReviewText: Much better screen than the samsung galaxy tablet
+
+ProductModelName: Sony TV 42 LED
+ProductCategory: TV
+ProductPrice: 800
+RetailerName: Frys
+RetailerZipCode: 60616
+RetailerCity: Chicago
+RetailerState: IL
+RetailerOnSale: No
+ManufacturerName: Sony
+ManufacturerRebate: No
+ReviewUserId: fdyu323
+ReviewRating: 4
+ReviewDate: 2/1/2013
+ReviewText: Sharp screen highly recommended
+
+ProductModelName: LG 65
+ProductCategory: TV
+ProductPrice: 2250
+RetailerName: Bestbuy
+RetailerZipCode: 02110
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: LG
+ManufacturerRebate: No
+ReviewUserId: spoi7124
+ReviewRating: 5
+ReviewDate: 5/1/2014
+ReviewText: Exellent design and you can use the remote control to control the sound system as well
+
+ProductModelName: Dell XP 15
+ProductCategory: Laptop
+ProductPrice: 1349
+RetailerName: Hhgregg
+RetailerZipCode: 60616
+RetailerCity: Chicago
+RetailerState: IL
+RetailerOnSale: No
+ManufacturerName: Dell
+ManufacturerRebate: No
+ReviewUserId: hgjhg652
+ReviewRating: 3
+ReviewDate: 1/14/2014
+ReviewText: noisy fan
+
+ProductModelName: HP Pavilion 15.6
+ProductCategory: Laptop
+ProductPrice: 1399
+RetailerName: Hhgregg
+RetailerZipCode: 60603
+RetailerCity: Chicago
+RetailerState: IL
+RetailerOnSale: Yes
+ManufacturerName: HP
+ManufacturerRebate: Yes
+ReviewUserId: lkju763
+ReviewRating: 2
+ReviewDate: 1/15/2012
+ReviewText: Bad monitor
+
+ProductModelName: Samsung TV 65 Curved
+ProductCategory: TV
+ProductPrice: 2199
+RetailerName: Bestbuy
+RetailerZipCode: 94102
+RetailerCity: San Francisco
+RetailerState: CA
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: vwil639
+ReviewRating: 5
+ReviewDate: 8/21/2014
+ReviewText: Perfect for watching basketball game
+
+ProductModelName: HP Pavilion 15.6 
+ProductCategory: Laptop
+ProductPrice: 599
+RetailerName: Hhgregg
+RetailerZipCode: 33130
+RetailerCity: Miami
+RetailerState: FL
+RetailerOnSale: No
+ManufacturerName: HP
+ManufacturerRebate: No
+ReviewUserId: jjer917
+ReviewRating: 5
+ReviewDate: 10/8/2014
+ReviewText: good quality and performance
+
+ProductModelName: Galaxy S4
+ProductCategory: Smart Phone
+ProductPrice: 499
+RetailerName: Bestbuy
+RetailerZipCode: 44114
+RetailerCity: Cleveland
+RetailerState: OH
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: xmm473
+ReviewRating: 3
+ReviewDate: 6/10/2012
+ReviewText: overheats after 2 hours
+
+ProductModelName: Dell XP 13
+ProductCategory: Laptop
+ProductPrice: 1349
+RetailerName: Walmart
+RetailerZipCode: 60616
+RetailerCity: Chicago
+RetailerState: IL
+RetailerOnSale: No
+ManufacturerName: Dell
+ManufacturerRebate: No
+ReviewUserId: wywe5432
+ReviewRating: 1
+ReviewDate: 10/14/2014
+ReviewText: screen goes blank when I start my HD games and the touch pad does not work always
+
+ProductModelName: iPhone 6
+ProductCategory: Smart Phone
+ProductPrice: 299
+RetailerName: Frys
+RetailerZipCode: 30303
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: Yes
+ManufacturerName: Apple
+ManufacturerRebate: No
+ReviewUserId: akiy234
+ReviewRating: 5
+ReviewDate: 10/17/2014
+ReviewText: Very thin design and easily fits in my pocket
+
+ProductModelName: Samsung TV 65 Curved
+ProductCategory: TV
+ProductPrice: 2199
+RetailerName: Bestbuy
+RetailerZipCode: 02108
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: tfdr278
+ReviewRating: 5
+ReviewDate: 5/24/2014
+ReviewText: Amazing screen and HD pictures on this TV
+
+ProductModelName: HTC One
+ProductCategory: Smart Phone
+ProductPrice: 199
+RetailerName: Walmart
+RetailerZipCode: 90033
+RetailerCity: Los Angeles
+RetailerState: CA
+RetailerOnSale: No
+ManufacturerName: HTC
+ManufacturerRebate: Yes
+ReviewUserId: aopw447
+ReviewRating: 5
+ReviewDate: 11/21/2013
+ReviewText: Alot of memory and you have the choice of to purchase the 16 GB to save all of your images
+
+ProductModelName: Surface 3
+ProductCategory: Tablet
+ProductPrice: 499
+RetailerName: Walmart
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: Microsoft
+ManufacturerRebate: No
+ReviewUserId: kjru76
+ReviewRating: 5
+ReviewDate: 8/1/2014
+ReviewText: Better screen than Samsung Galaxy tablet
+
+ProductModelName: Lenevo Y50 
+ProductCategory: Laptop
+ProductPrice: 1349
+RetailerName: Walmart
+RetailerZipCode: 33129
+RetailerCity: Miami
+RetailerState: FL
+RetailerOnSale: No
+ManufacturerName: Lenevo
+ManufacturerRebate: No
+ReviewUserId: tom8723
+ReviewRating: 3
+ReviewDate: 8/18/2012
+ReviewText: over priced
+
+ProductModelName: iPad Air
+ProductCategory: Tablet
+ProductPrice: 499
+RetailerName: Target
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: Apple
+ManufacturerRebate: No
+ReviewUserId: hgd987
+ReviewRating: 5
+ReviewDate: 4/1/2013
+ReviewText: Battery is ok not bad as others complain about it
+
+
+ProductModelName: Samsung Galaxy Tab 4
+ProductCategory: Tablet
+ProductPrice: 399
+RetailerName: Walmart
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: sij392
+ReviewRating: 5
+ReviewDate: 2/26/2014
+ReviewText: Good product for good price
+
+ProductModelName: Dell XP 13
+ProductCategory: Laptop
+ProductPrice: 1099
+RetailerName: Hhgregg
+RetailerZipCode: 94158
+RetailerCity: San Francisco
+RetailerState: CA
+RetailerOnSale: Yes
+ManufacturerName: Dell
+ManufacturerRebate: No
+ReviewUserId: apae677
+ReviewRating: 4
+ReviewDate: 3/10/2015
+ReviewText: good for gaming
+
+ProductModelName: HTC One
+ProductCategory: Smart Phone
+ProductPrice: 299
+RetailerName: Target
+RetailerZipCode: 30303
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: No
+ManufacturerName: HTC
+ManufacturerRebate: No
+ReviewUserId: kjjasd67
+ReviewRating: 2
+ReviewDate: 10/13/2013
+ReviewText: Bad battery
+
+ProductModelName: Samsung TV 65 Curved
+ProductCategory: TV
+ProductPrice: 1899
+RetailerName: Target
+RetailerZipCode: 30134
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: Yes
+ManufacturerName: Samsung
+ManufacturerRebate: Yes
+ReviewUserId: uys8219
+ReviewRating: 1
+ReviewDate: 9/24/2014
+ReviewText: My sound system makes background noise when I connect it to the TV
+
+ProductModelName: Galaxy S4
+ProductCategory: Smart Phone
+ProductPrice: 499
+RetailerName: Bestbuy
+RetailerZipCode: 44114
+RetailerCity: Cleveland
+RetailerState: OH
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: djh621
+ReviewRating: 3
+ReviewDate: 7/10/2013
+ReviewText: overheats after 2 hours
+
+ProductModelName: Dell XP 13
+ProductCategory: Laptop
+ProductPrice: 1200
+RetailerName: Walmart
+RetailerZipCode: 60616
+RetailerCity: Chicago
+RetailerState: IL
+RetailerOnSale: No
+ManufacturerName: Dell
+ManufacturerRebate: No
+ReviewUserId: dur565
+ReviewRating: 3
+ReviewDate: 8/17/2014
+ReviewText:  sound is not of a good quality
+
+ProductModelName: iPhone 6
+ProductCategory: Smart Phone
+ProductPrice: 399
+RetailerName: Target
+RetailerZipCode: 30303
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: No
+ManufacturerName: Apple
+ManufacturerRebate: No
+ReviewUserId: bhru323
+ReviewRating: 5
+ReviewDate: 7/23/2014
+ReviewText: Awesome display
+
+ProductModelName: Samsung TV 65 Curved
+ProductCategory: TV
+ProductPrice: 1900
+RetailerName: Target
+RetailerZipCode: 02108
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: jwsy537
+ReviewRating: 4
+ReviewDate: 2/15/2014
+ReviewText: Really good for watching HD movies
+
+ProductModelName: HTC One
+ProductCategory: Smart Phone
+ProductPrice: 199
+RetailerName: Walmart
+RetailerZipCode: 90033
+RetailerCity: Los Angeles
+RetailerState: CA
+RetailerOnSale: No
+ManufacturerName: HTC
+ManufacturerRebate: Yes
+ReviewUserId: rett891
+ReviewRating: 1
+ReviewDate: 6/21/2014
+ReviewText: Battery dies after couple of hours of usage
+
+ProductModelName: Surface 3
+ProductCategory: Tablet
+ProductPrice: 450
+RetailerName: Target
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: Yes
+ManufacturerName: Microsoft
+ManufacturerRebate: No
+ReviewUserId: hsy5634
+ReviewRating: 5
+ReviewDate: 5/19/2014
+ReviewText: really cool tablet and cheap compared to other devices
+
+ProductModelName: Lenevo Y50 
+ProductCategory: Laptop
+ProductPrice: 1149
+RetailerName: Hhgregg
+RetailerZipCode: 33129
+RetailerCity: Miami
+RetailerState: FL
+RetailerOnSale: Yes
+ManufacturerName: Lenevo
+ManufacturerRebate: Yes
+ReviewUserId: sam3987
+ReviewRating: 2
+ReviewDate: 8/18/2014
+ReviewText: Battery lasts only for 3 hours 
+
+ProductModelName: iPad Air
+ProductCategory: Tablet
+ProductPrice: 425
+RetailerName: Target
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: Yes
+ManufacturerName: Apple
+ManufacturerRebate: No
+ReviewUserId: lkiw736
+ReviewRating: 5
+ReviewDate: 8/13/2014
+ReviewText: Does add  much load when you carry it in your bag
+
+
+ProductModelName: Samsung Galaxy Tab 4
+ProductCategory: Tablet
+ProductPrice: 399
+RetailerName: Hhgregg
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: Yes
+ManufacturerName: Samsung
+ManufacturerRebate: Yes
+ReviewUserId: ahwy345
+ReviewRating: 2
+ReviewDate: 7/16/2014
+ReviewText: Some of my apps do not work on this tablet 
+
+ProductModelName: Dell XP 13
+ProductCategory: Laptop
+ProductPrice: 1150
+RetailerName: Walmart
+RetailerZipCode: 94158
+RetailerCity: San Francisco
+RetailerState: CA
+RetailerOnSale: Yes
+ManufacturerName: Dell
+ManufacturerRebate: No
+ReviewUserId: jak7810
+ReviewRating: 5
+ReviewDate: 3/10/2015
+ReviewText: perfect for work and surfing the internet. Sharp screen and alot of horse power
+
+ProductModelName: HTC One
+ProductCategory: Smart Phone
+ProductPrice: 199
+RetailerName: Target
+RetailerZipCode: 30303
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: Yes
+ManufacturerName: HTC
+ManufacturerRebate: Yes
+ReviewUserId: owy2907
+ReviewRating: 5
+ReviewDate: 9/13/2013
+ReviewText: Good design and It is cheap compared to othe devices
+
+ProductModelName: Samsung TV 65 Curved
+ProductCategory: TV
+ProductPrice: 1899
+RetailerName: Hhgregg
+RetailerZipCode: 30134
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: Yes
+ManufacturerName: Samsung
+ManufacturerRebate: Yes
+ReviewUserId: fitn4937
+ReviewRating: 5
+ReviewDate: 5/23/2014
+ReviewText: Excellent remote control design
+
+ProductModelName: Samsung TV 60 LED
+ProductCategory: TV
+ProductPrice: 1100
+RetailerName: Walmart
+RetailerZipCode: 60585
+RetailerCity: Naperville
+RetailerState: IL
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: sam876
+ReviewRating: 5
+ReviewDate: 8/10/2014
+ReviewText: works with my sound system perfectly
+
+ProductModelName: Surface 3
+ProductCategory: Tablet
+ProductPrice: 399
+RetailerName: Target
+RetailerZipCode: 90012
+RetailerCity: Los Angeles
+RetailerState: CA
+RetailerOnSale: Yes
+ManufacturerName: Microsoft
+ManufacturerRebate: No
+ReviewUserId: suw390
+ReviewRating: 5
+ReviewDate: 4/19/2014
+ReviewText: The power of PC in a tablet
+
+ProductModelName: Sony TV 42 LED
+ProductCategory: TV
+ProductPrice: 799
+RetailerName: Target
+RetailerZipCode: 60616
+RetailerCity: Chicago
+RetailerState: IL
+RetailerOnSale: No
+ManufacturerName: Sony
+ManufacturerRebate: No
+ReviewUserId: sawp973
+ReviewRating: 3
+ReviewDate: 8/1/2014
+ReviewText: Samsung is better than this TV and cheaper. HDMI cable did not work porperly
+
+ProductModelName: LG 65
+ProductCategory: TV
+ProductPrice: 2250
+RetailerName: Bestbuy
+RetailerZipCode: 02110
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: LG
+ManufacturerRebate: No
+ReviewUserId: kwop360
+ReviewRating: 5
+ReviewDate: 4/29/2014
+ReviewText: Works with all of the accessories that I have
+
+ProductModelName: Dell XP 15
+ProductCategory: Laptop
+ProductPrice: 1899
+RetailerName: Target
+RetailerZipCode: 60616
+RetailerCity: Chicago
+RetailerState: IL
+RetailerOnSale: No
+ManufacturerName: Dell
+ManufacturerRebate: No
+ReviewUserId: eric82
+ReviewRating: 5
+ReviewDate: 2/14/2014
+ReviewText: Really good Battery
+
+ProductModelName: HP Pavilion 15.6
+ProductCategory: Laptop
+ProductPrice: 1599
+RetailerName: Hhgregg
+RetailerZipCode: 60603
+RetailerCity: Chicago
+RetailerState: IL
+RetailerOnSale: Yes
+ManufacturerName: HP
+ManufacturerRebate: NO
+ReviewUserId: jwop026
+ReviewRating: 5
+ReviewDate: 12/15/2013
+ReviewText: Exellent for gaming
+
+ProductModelName: Samsung TV 65 Curved
+ProductCategory: TV
+ProductPrice: 1799
+RetailerName: Walmart
+RetailerZipCode: 94102
+RetailerCity: San Francisco
+RetailerState: CA
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: dav286
+ReviewRating: 2
+ReviewDate: 8/21/2014
+ReviewText: It did not connect to my bluetooth sound system
+
+ProductModelName: HP Pavilion 15.6 
+ProductCategory: Laptop
+ProductPrice: 599
+RetailerName: Bestbuy
+RetailerZipCode: 33130
+RetailerCity: Miami
+RetailerState: FL
+RetailerOnSale: Yes
+ManufacturerName: HP
+ManufacturerRebate: Yes
+ReviewUserId: nhy820
+ReviewRating: 5
+ReviewDate: 10/8/2014
+ReviewText: I wish they had a better battery
+
+ProductModelName: Galaxy S4
+ProductCategory: Smart Phone
+ProductPrice: 499
+RetailerName: Frys
+RetailerZipCode: 44114
+RetailerCity: Cleveland
+RetailerState: OH
+RetailerOnSale: Yes
+ManufacturerName: Samsung
+ManufacturerRebate: Yes
+ReviewUserId: nwop390
+ReviewRating: 4
+ReviewDate: 9/19/2013
+ReviewText: Power on and off button does not work always
+
+ProductModelName: Dell XP 13
+ProductCategory: Laptop
+ProductPrice: 1349
+RetailerName: Bestbuy
+RetailerZipCode: 60616
+RetailerCity: Chicago
+RetailerState: IL
+RetailerOnSale: No
+ManufacturerName: Dell
+ManufacturerRebate: No
+ReviewUserId: kwsf371
+ReviewRating: 4
+ReviewDate: 10/14/2014
+ReviewText: Power cable is hort
+
+ProductModelName: iPhone 6
+ProductCategory: Smart Phone
+ProductPrice: 399
+RetailerName: Frys
+RetailerZipCode: 30303
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: Yes
+ManufacturerName: Apple
+ManufacturerRebate: No
+ReviewUserId: bndo5430
+ReviewRating: 2
+ReviewDate: 8/10/2014
+ReviewText: Did not connect to my headset
+
+ProductModelName: Samsung TV 65 Curved
+ProductCategory: TV
+ProductPrice: 2099
+RetailerName: Frys
+RetailerZipCode: 02108
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: cdt2954
+ReviewRating: 5
+ReviewDate: 5/24/2014
+ReviewText: Good TV and works with my entertainment system
+
+ProductModelName: HTC One
+ProductCategory: Smart Phone
+ProductPrice: 99
+RetailerName: Bestbuy
+RetailerZipCode: 90033
+RetailerCity: Los Angeles
+RetailerState: CA
+RetailerOnSale: Yes
+ManufacturerName: HTC
+ManufacturerRebate: No
+ReviewUserId: msyt259
+ReviewRating: 5
+ReviewDate: 9/21/2014
+ReviewText: Good phone for cheap price
+
+ProductModelName: Surface 3
+ProductCategory: Tablet
+ProductPrice: 425
+RetailerName: Frys
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: Microsoft
+ManufacturerRebate: No
+ReviewUserId: nwop316
+ReviewRating: 2
+ReviewDate: 8/1/2014
+ReviewText: It freezes every couple of days
+
+ProductModelName: Lenevo Y50 
+ProductCategory: Laptop
+ProductPrice: 999
+RetailerName: Walmart
+RetailerZipCode: 33129
+RetailerCity: Miami
+RetailerState: FL
+RetailerOnSale: Yes
+ManufacturerName: Lenevo
+ManufacturerRebate: Yes
+ReviewUserId: vdsu253
+ReviewRating: 3
+ReviewDate: 6/18/2013
+ReviewText: Very noisy fan; it overheats after I play game on it for an hour
+
+ProductModelName: iPad Air
+ProductCategory: Tablet
+ProductPrice: 299
+RetailerName: Target
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: Yes
+ManufacturerName: Apple
+ManufacturerRebate: No
+ReviewUserId: ruyt987
+ReviewRating: 2
+ReviewDate: 6/26/2014
+ReviewText: Multitouch is not always accurate on the screen
+
+
+ProductModelName: Samsung Galaxy Tab 4
+ProductCategory: Tablet
+ProductPrice: 599
+RetailerName: Target
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: Yes
+ManufacturerName: Samsung
+ManufacturerRebate: Yes
+ReviewUserId: mwiy389
+ReviewRating: 5
+ReviewDate: 2/26/2014
+ReviewText: Superfast and good battery
+
+ProductModelName: Dell XP 13
+ProductCategory: Laptop
+ProductPrice: 999
+RetailerName: Frys
+RetailerZipCode: 94158
+RetailerCity: San Francisco
+RetailerState: CA
+RetailerOnSale: Yes
+ManufacturerName: Dell
+ManufacturerRebate: No
+ReviewUserId: dggh556
+ReviewRating: 5
+ReviewDate: 11/10/2014
+ReviewText: good for gaming
+
+ProductModelName: HTC One
+ProductCategory: Smart Phone
+ProductPrice: 199
+RetailerName: Target
+RetailerZipCode: 30303
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: No
+ManufacturerName: HTC
+ManufacturerRebate: No
+ReviewUserId: mnbw2487
+ReviewRating: 2
+ReviewDate: 3/13/2014
+ReviewText: It overheats under heavy use and powers off on its own
+
+ProductModelName: Samsung TV 65 Curved
+ProductCategory: TV
+ProductPrice: 2099
+RetailerName: Walmart
+RetailerZipCode: 30134
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: Yes
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: csu416
+ReviewRating: 5
+ReviewDate: 9/24/2014
+ReviewText: Excellent for watching Netflix movies
+
+ProductModelName: Galaxy S4
+ProductCategory: Smart Phone
+ProductPrice: 399
+RetailerName: Walmart
+RetailerZipCode: 44114
+RetailerCity: Cleveland
+RetailerState: OH
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: bsjk234
+ReviewRating: 5
+ReviewDate: 6/10/2014
+ReviewText: Super fast but I wish it had a better battery
+
+ProductModelName: Dell XP 13
+ProductCategory: Laptop
+ProductPrice: 999
+RetailerName: Walmart
+RetailerZipCode: 60616
+RetailerCity: Chicago
+RetailerState: IL
+RetailerOnSale: Yes
+ManufacturerName: Dell
+ManufacturerRebate: No
+ReviewUserId: vdi263
+ReviewRating: 1
+ReviewDate: 1/17/2015
+ReviewText:  black and white screen only after 1 month of use
+
+ProductModelName: iPhone 6
+ProductCategory: Smart Phone
+ProductPrice: 399
+RetailerName: Target
+RetailerZipCode: 30303
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: No
+ManufacturerName: Apple
+ManufacturerRebate: No
+ReviewUserId: dytr230
+ReviewRating: 2
+ReviewDate: 7/23/2014
+ReviewText: It keeps freezing every now and then
+
+ProductModelName: Samsung TV 65 Curved
+ProductCategory: TV
+ProductPrice: 1900
+RetailerName: Target
+RetailerZipCode: 02108
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: ggt893
+ReviewRating: 5
+ReviewDate: 2/15/2014
+ReviewText: Best TV I ever bought adn it works with all of the accessories
+
+ProductModelName: HTC One
+ProductCategory: Smart Phone
+ProductPrice: 199
+RetailerName: Walmart
+RetailerZipCode: 90033
+RetailerCity: Los Angeles
+RetailerState: CA
+RetailerOnSale: No
+ManufacturerName: HTC
+ManufacturerRebate: Yes
+ReviewUserId: wett891
+ReviewRating: 1
+ReviewDate: 7/21/2014
+ReviewText: After 2 months of use it overheated at some point and just died 
+
+ProductModelName: Surface 3
+ProductCategory: Tablet
+ProductPrice: 450
+RetailerName: Target
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: Yes
+ManufacturerName: Microsoft
+ManufacturerRebate: No
+ReviewUserId: dem274
+ReviewRating: 2
+ReviewDate: 6/10/2014
+ReviewText: Bad screen for HD gaming; don't buy it if you want to use it for gaming heavily
+
+ProductModelName: Lenevo Y50 
+ProductCategory: Laptop
+ProductPrice: 1149
+RetailerName: Hhgregg
+RetailerZipCode: 33129
+RetailerCity: Miami
+RetailerState: FL
+RetailerOnSale: Yes
+ManufacturerName: Lenevo
+ManufacturerRebate: Yes
+ReviewUserId: lkwme367
+ReviewRating: 5
+ReviewDate: 8/18/2014
+ReviewText: i checked out other reviews and Im pleased to say mine worked without any problem
+
+ProductModelName: iPad Air
+ProductCategory: Tablet
+ProductPrice: 425
+RetailerName: Target
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: Yes
+ManufacturerName: Apple
+ManufacturerRebate: No
+ReviewUserId: ahm551
+ReviewRating: 1
+ReviewDate: 7/9/2014
+ReviewText: It can not play all of my songs on this tablet and the speaker was dead
+
+
+ProductModelName: Samsung Galaxy Tab 4
+ProductCategory: Tablet
+ProductPrice: 299
+RetailerName: Hhgregg
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: Yes
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: kytr260
+ReviewRating: 1
+ReviewDate: 7/16/2014
+ReviewText: this tablet overheats really fast and powers off on its own
+
+ProductModelName: Dell XP 13
+ProductCategory: Laptop
+ProductPrice: 890
+RetailerName: Target
+RetailerZipCode: 94158
+RetailerCity: San Francisco
+RetailerState: CA
+RetailerOnSale: Yes
+ManufacturerName: Dell
+ManufacturerRebate: No
+ReviewUserId: mjak5610
+ReviewRating: 1
+ReviewDate: 2/1/2015
+ReviewText: After one month of use it stopped working and it would not boot up again
+
+ProductModelName: HTC One
+ProductCategory: Smart Phone
+ProductPrice: 199
+RetailerName: Bestbuy
+RetailerZipCode: 30303
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: Yes
+ManufacturerName: HTC
+ManufacturerRebate: Yes
+ReviewUserId: hwi377
+ReviewRating: 1
+ReviewDate: 9/13/2013
+ReviewText: Overheated and died after 3 weeks of use
+
+ProductModelName: Samsung TV 65 Curved
+ProductCategory: TV
+ProductPrice: 1899
+RetailerName: Walmart
+RetailerZipCode: 30134
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: Yes
+ManufacturerName: Samsung
+ManufacturerRebate: Yes
+ReviewUserId: now786
+ReviewRating: 4
+ReviewDate: 2/15/2015
+ReviewText: Remote control does not work beyond 3ft range
+
+ProductModelName: Samsung TV 60 LED
+ProductCategory: TV
+ProductPrice: 1200
+RetailerName: Bestbuy
+RetailerZipCode: 60585
+RetailerCity: Naperville
+RetailerState: IL
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: suyw567
+ReviewRating: 4
+ReviewDate: 9/14/2014
+ReviewText: Bluetooth is bad on this TV though
+
+ProductModelName: Surface 3
+ProductCategory: Tablet
+ProductPrice: 399
+RetailerName: Hhgregg
+RetailerZipCode: 90012
+RetailerCity: Los Angeles
+RetailerState: CA
+RetailerOnSale: Yes
+ManufacturerName: Microsoft
+ManufacturerRebate: No
+ReviewUserId: ffdd543
+ReviewRating: 5
+ReviewDate: 5/19/2014
+ReviewText: bought it on sale
+
+ProductModelName: Sony TV 42 LED
+ProductCategory: TV
+ProductPrice: 800
+RetailerName: Frys
+RetailerZipCode: 60616
+RetailerCity: Chicago
+RetailerState: IL
+RetailerOnSale: Yes
+ManufacturerName: Sony
+ManufacturerRebate: Yes
+ReviewUserId: nnft387
+ReviewRating: 1
+ReviewDate: 2/1/2013
+ReviewText: My HDMI cable did not work for this TV
+
+ProductModelName: LG 65
+ProductCategory: TV
+ProductPrice: 2250
+RetailerName: Bestbuy
+RetailerZipCode: 02110
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: LG
+ManufacturerRebate: No
+ReviewUserId: mjki825
+ReviewRating: 4
+ReviewDate: 12/1/2014
+ReviewText: The yellow color is not perfect on this TV
+
+ProductModelName: Dell XP 15
+ProductCategory: Laptop
+ProductPrice: 1499
+RetailerName: Hhgregg
+RetailerZipCode: 60616
+RetailerCity: Chicago
+RetailerState: IL
+RetailerOnSale: Yes
+ManufacturerName: Dell
+ManufacturerRebate: No
+ReviewUserId: bvgt421
+ReviewRating: 1
+ReviewDate: 12/14/2014
+ReviewText: Screen freezes when I start HD games on it
+
+ProductModelName: HP Pavilion 15.6
+ProductCategory: Laptop
+ProductPrice: 1899
+RetailerName: Hhgregg
+RetailerZipCode: 60603
+RetailerCity: Chicago
+RetailerState: IL
+RetailerOnSale: Yes
+ManufacturerName: HP
+ManufacturerRebate: Yes
+ReviewUserId: mhty430
+ReviewRating: 2
+ReviewDate: 2/15/2015
+ReviewText: Mouse pad is really slow
+
+ProductModelName: Samsung TV 65 Curved
+ProductCategory: TV
+ProductPrice: 2199
+RetailerName: Hhgregg
+RetailerZipCode: 94102
+RetailerCity: San Francisco
+RetailerState: CA
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: diss395
+ReviewRating: 1
+ReviewDate: 8/21/2014
+ReviewText: Remote control does not work beyond 3 ft range
+
+ProductModelName: HP Pavilion 15.6 
+ProductCategory: Laptop
+ProductPrice: 599
+RetailerName: Hhgregg
+RetailerZipCode: 33130
+RetailerCity: Miami
+RetailerState: FL
+RetailerOnSale: Yes
+ManufacturerName: HP
+ManufacturerRebate: Yes
+ReviewUserId: vsp4448
+ReviewRating: 1
+ReviewDate: 12/5/2014
+ReviewText: Hard drive makes alot of noise
+
+ProductModelName: Galaxy S4
+ProductCategory: Smart Phone
+ProductPrice: 499
+RetailerName: Bestbuy
+RetailerZipCode: 44114
+RetailerCity: Cleveland
+RetailerState: OH
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: jjwe395
+ReviewRating: 1
+ReviewDate: 8/10/2013
+ReviewText: After an hour of heavy use it overheats
+
+ProductModelName: Dell XP 13
+ProductCategory: Laptop
+ProductPrice: 1349
+RetailerName: Bestbuy
+RetailerZipCode: 60616
+RetailerCity: Chicago
+RetailerState: IL
+RetailerOnSale: No
+ManufacturerName: Dell
+ManufacturerRebate: No
+ReviewUserId: jlae387
+ReviewRating: 3
+ReviewDate: 12/27/2014
+ReviewText: Mouse pad is slow
+
+ProductModelName: iPhone 6
+ProductCategory: Smart Phone
+ProductPrice: 299
+RetailerName: Hhgregg
+RetailerZipCode: 30303
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: No
+ManufacturerName: Apple
+ManufacturerRebate: No
+ReviewUserId: nasu547
+ReviewRating: 2
+ReviewDate: 12/10/2014
+ReviewText: Needs longer battery
+
+ProductModelName: Samsung TV 65 Curved
+ProductCategory: TV
+ProductPrice: 2199
+RetailerName: Bestbuy
+RetailerZipCode: 02108
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: mqrt498
+ReviewRating: 4
+ReviewDate: 3/24/2014
+ReviewText: sharp screen and good for the family room
+
+ProductModelName: HTC One
+ProductCategory: Smart Phone
+ProductPrice: 199
+RetailerName: Walmart
+RetailerZipCode: 90033
+RetailerCity: Los Angeles
+RetailerState: CA
+RetailerOnSale: No
+ManufacturerName: HTC
+ManufacturerRebate: Yes
+ReviewUserId: aopsawr452w447
+ReviewRating: 4
+ReviewDate: 8/21/2014
+ReviewText: Does not work with my headset
+
+ProductModelName: Surface 3
+ProductCategory: Tablet
+ProductPrice: 499
+RetailerName: Walmart
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: Microsoft
+ManufacturerRebate: No
+ReviewUserId: meay456
+ReviewRating: 5
+ReviewDate: 12/1/2014
+ReviewText: Works without any problem with all of my bluetooth devices
+
+ProductModelName: Lenevo Y50 
+ProductCategory: Laptop
+ProductPrice: 1349
+RetailerName: Walmart
+RetailerZipCode: 33129
+RetailerCity: Miami
+RetailerState: FL
+RetailerOnSale: Yes
+ManufacturerName: Lenevo
+ManufacturerRebate: Yes
+ReviewUserId: mist517
+ReviewRating: 3
+ReviewDate: 6/18/2014
+ReviewText: over priced
+
+ProductModelName: iPad Air
+ProductCategory: Tablet
+ProductPrice: 499
+RetailerName: Target
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: Apple
+ManufacturerRebate: No
+ReviewUserId: dvn744
+ReviewRating: 4
+ReviewDate: 4/1/2015
+ReviewText: Battery is really good but mouse pad is slow to respond sometimes
+
+
+ProductModelName: Samsung Galaxy Tab 4
+ProductCategory: Tablet
+ProductPrice: 399
+RetailerName: Walmart
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: alter458
+ReviewRating: 1
+ReviewDate: 2/29/2015
+ReviewText: Does not work with my headset
+
+ProductModelName: Dell XP 13
+ProductCategory: Laptop
+ProductPrice: 1099
+RetailerName: Hhgregg
+RetailerZipCode: 94158
+RetailerCity: San Francisco
+RetailerState: CA
+RetailerOnSale: Yes
+ManufacturerName: Dell
+ManufacturerRebate: No
+ReviewUserId: smht427
+ReviewRating: 5
+ReviewDate: 12/27/2014
+ReviewText: Good design and battery lasts all day
+
+ProductModelName: HTC One
+ProductCategory: Smart Phone
+ProductPrice: 299
+RetailerName: Target
+RetailerZipCode: 30303
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: No
+ManufacturerName: HTC
+ManufacturerRebate: No
+ReviewUserId: nwdt416
+ReviewRating: 2
+ReviewDate: 11/29/2014
+ReviewText: Bad battery
+
+ProductModelName: Samsung TV 65 Curved
+ProductCategory: TV
+ProductPrice: 1899
+RetailerName: Target
+RetailerZipCode: 30134
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: Yes
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: redt437
+ReviewRating: 1
+ReviewDate: 12/20/2014
+ReviewText: Bluetooth does not work with my sound bar 
+
+
+ProductModelName: Galaxy S4
+ProductCategory: Smart Phone
+ProductPrice: 499
+RetailerName: Bestbuy
+RetailerZipCode: 44114
+RetailerCity: Cleveland
+RetailerState: OH
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: emy524
+ReviewRating: 5
+ReviewDate: 5/25/2014
+ReviewText: Easy to carry and battery lasts all day for me
+
+ProductModelName: Dell XP 13
+ProductCategory: Laptop
+ProductPrice: 1200
+RetailerName: Walmart
+RetailerZipCode: 60616
+RetailerCity: Chicago
+RetailerState: IL
+RetailerOnSale: No
+ManufacturerName: Dell
+ManufacturerRebate: No
+ReviewUserId: tal384
+ReviewRating: 1
+ReviewDate: 11/25/2014
+ReviewText:  Sound quality is really bad and screen goes blank often
+
+ProductModelName: iPhone 6
+ProductCategory: Smart Phone
+ProductPrice: 399
+RetailerName: Frys
+RetailerZipCode: 30303
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: No
+ManufacturerName: Apple
+ManufacturerRebate: No
+ReviewUserId: sysw335
+ReviewRating: 5
+ReviewDate: 6/25/2014
+ReviewText: Briliant design and easy to use
+
+ProductModelName: Samsung TV 65 Curved
+ProductCategory: TV
+ProductPrice: 1900
+RetailerName: Target
+RetailerZipCode: 02108
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: vid7765
+ReviewRating: 1
+ReviewDate: 10/25/2014
+ReviewText: Really bad picture when I stream movies from Netflix
+
+ProductModelName: HTC One
+ProductCategory: Smart Phone
+ProductPrice: 199
+RetailerName: Walmart
+RetailerZipCode: 90033
+RetailerCity: Los Angeles
+RetailerState: CA
+RetailerOnSale: No
+ManufacturerName: HTC
+ManufacturerRebate: Yes
+ReviewUserId: lan5432
+ReviewRating: 5
+ReviewDate: 6/21/2014
+ReviewText: Exllent design and cheap price
+
+ProductModelName: Surface 3
+ProductCategory: Tablet
+ProductPrice: 450
+RetailerName: Target
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: Yes
+ManufacturerName: Microsoft
+ManufacturerRebate: No
+ReviewUserId: jin458
+ReviewRating: 5
+ReviewDate: 7/19/2014
+ReviewText: really cool tablet and cheap compared to other devices
+
+ProductModelName: Lenevo Y50 
+ProductCategory: Laptop
+ProductPrice: 1149
+RetailerName: Hhgregg
+RetailerZipCode: 33129
+RetailerCity: Miami
+RetailerState: FL
+RetailerOnSale: Yes
+ManufacturerName: Lenevo
+ManufacturerRebate: Yes
+ReviewUserId: rry5548
+ReviewRating: 2
+ReviewDate: 8/18/2014
+ReviewText: Battery lasts only for 3 hours 
+
+ProductModelName: iPad Air
+ProductCategory: Walmart
+ProductPrice: 425
+RetailerName: Target
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: Yes
+ManufacturerName: Apple
+ManufacturerRebate: No
+ReviewUserId: yeln331
+ReviewRating: 1
+ReviewDate: 10/110/2013
+ReviewText: Overheats in an hour when I use it  to play games
+
+
+ProductModelName: Samsung Galaxy Tab 4
+ProductCategory: Tablet
+ProductPrice: 399
+RetailerName: Bestbuy
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: Samsung
+ManufacturerRebate: No
+ReviewUserId: many459
+ReviewRating: 2
+ReviewDate: 9/20/2014
+ReviewText: Battery dies really fast
+
+ProductModelName: Dell XP 13
+ProductCategory: Laptop
+ProductPrice: 1150
+RetailerName: Walmart
+RetailerZipCode: 94158
+RetailerCity: San Francisco
+RetailerState: CA
+RetailerOnSale: Yes
+ManufacturerName: Dell
+ManufacturerRebate: No
+ReviewUserId: edrd322
+ReviewRating: 1
+ReviewDate: 5/12/2014
+ReviewText: Short power cord and screen goes blank quite often
+
+ProductModelName: HTC One
+ProductCategory: Smart Phone
+ProductPrice: 199
+RetailerName: Frys
+RetailerZipCode: 30303
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: Yes
+ManufacturerName: HTC
+ManufacturerRebate: Yes
+ReviewUserId: tamn355
+ReviewRating: 5
+ReviewDate: 4/19/2014
+ReviewText: It is cheap compared to other devices
+
+ProductModelName: Samsung TV 65 Curved
+ProductCategory: TV
+ProductPrice: 1899
+RetailerName: Hhgregg
+RetailerZipCode: 30134
+RetailerCity: Atlanta
+RetailerState: GA
+RetailerOnSale: Yes
+ManufacturerName: Samsung
+ManufacturerRebate: Yes
+ReviewUserId: tak3783
+ReviewRating: 1
+ReviewDate: 9/17/2014
+ReviewText: The romote control does not work
+
+ProductModelName: HTC One
+ProductCategory: Smart Phone
+ProductPrice: 199
+RetailerName: Walmart
+RetailerZipCode: 90033
+RetailerCity: Los Angeles
+RetailerState: CA
+RetailerOnSale: No
+ManufacturerName: HTC
+ManufacturerRebate: Yes
+ReviewUserId: cara372
+ReviewRating: 5
+ReviewDate: 10/21/2014
+ReviewText: Super fast and lot of memory
+
+ProductModelName: Surface 3
+ProductCategory: Tablet
+ProductPrice: 499
+RetailerName: Walmart
+RetailerZipCode: 02109
+RetailerCity: Boston
+RetailerState: MA
+RetailerOnSale: No
+ManufacturerName: Microsoft
+ManufacturerRebate: No
+ReviewUserId: clrk773
+ReviewRating: 1
+ReviewDate: 10/28/2014
+ReviewText: Swipe does not work all the time
+
+ProductModelName: Lenevo Y50 
+ProductCategory: Laptop
+ProductPrice: 1349
+RetailerName: Walmart
+RetailerZipCode: 33129
+RetailerCity: Miami
+RetailerState: FL
+RetailerOnSale: No
+ManufacturerName: Lenevo
+ManufacturerRebate: No
+ReviewUserId: chun2347
+ReviewRating: 3
+ReviewDate: 5/15/2013
+ReviewText: The keyboard backlight is not bright enough
+
+ProductModelName: HP Pavilion 15.6 
+ProductCategory: Laptop
+ProductPrice: 599
+RetailerName: Bestbuy
+RetailerZipCode: 33130
+RetailerCity: Miami
+RetailerState: FL
+RetailerOnSale: No
+ManufacturerName: HP
+ManufacturerRebate: No
+ReviewUserId: laur277
+ReviewRating: 3
+ReviewDate: 7/8/2014
+ReviewText: the mouse touch pad is bad
