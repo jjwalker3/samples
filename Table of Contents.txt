@@ -1,0 +1,23 @@
+This repo is intended to function as a simple portfolio of my technical and analytical skills.
+
+1: enron_emails
+-Python
+-SQL (PostgreSQL)
+
+2: mktg_review
+-Python
+
+3: tableau_dashboard
+-Tableau
+
+4: twitter_queries
+-Python
+-TwitterAPI
+
+5: websites
+-PHP
+-HTML
+-CSS
+-jQuery
+-Javascript
+-Bootstrap
