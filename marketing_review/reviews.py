@@ -98,7 +98,6 @@ for line in TopRating_gen:
 highestRating_byCity
 
 
-
 TopRatingPrice_byRetailerCity_gen = (group.sort_values(ascending=[False,False,True],
                                     by=['ReviewRating','ProductPrice','RetailerName'])
                                     [:5]
